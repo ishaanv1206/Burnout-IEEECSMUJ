@@ -1,0 +1,65 @@
+Best Estimator: LGBMRegressor(colsample_bytree=0.5543765856509346,
+              learning_rate=0.10318794475119208, max_bin=511,
+              min_child_samples=4, n_estimators=272, n_jobs=-1,
+              num_leaves=14222, reg_alpha=0.000986879483481047,
+              reg_lambda=0.1655064291097138, verbose=-1)
+
+Best Hyperparameters:
+  n_estimators: 272
+  num_leaves: 14222
+  min_child_samples: 4
+  learning_rate: 0.10318794475119208
+  log_max_bin: 9
+  colsample_bytree: 0.5543765856509346
+  reg_alpha: 0.000986879483481047
+  reg_lambda: 0.1655064291097138
+
+Best Loss: 0.0000
+
+Best Learner: lgbm
+
+Feature Importance:
+Ambient_Temperature_Celsius        232683
+Pit_Stop_Duration_Seconds          206802
+Track_Temperature_Celsius          203578
+year_x                             183497
+Tire_Degradation_Factor_per_Lap    183367
+rider_name                         166610
+rider                              143721
+position                           136206
+circuit_name                       129361
+sequence                           112158
+Corners_per_Lap                    111591
+starts                             102924
+shortname                           99320
+points                              82952
+bike                                80600
+finishes                            79096
+team                                74391
+with_points                         70195
+bike_name                           66851
+team_name                           66455
+air                                 56705
+ground                              54157
+podiums                             53885
+max_year                            53166
+years_active                        42751
+min_year                            35662
+wins                                29826
+weather                             26003
+Circuit_Length_km                    5544
+Rider_ID                             5401
+Avg_Speed_kmh                        4492
+Championship_Points                  4152
+track                                3379
+Humidity_%                            266
+Championship_Position                  23
+Grid_Position                          14
+Tire_Compound_Front                     2
+Tire_Compound_Rear                      1
+Session                                 0
+Track_Condition                         0
+Laps                                    0
+Penalty                                 0
+category_x                              0
+dtype: int32
