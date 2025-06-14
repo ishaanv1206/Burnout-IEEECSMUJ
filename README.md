@@ -14,6 +14,8 @@ Given historical MotoGP data — including rider info, bike and team details, en
 
 ## Main final Code File is final_submission.ipynb/py
 
+## Kaggle notebook Link : https://www.kaggle.com/code/ee5nq8sd35elh/notebook412eae5e72
+
 ## 🧠 Model Summary
 
 - 📦 **Model Type**: Regression  
